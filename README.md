@@ -1,4 +1,4 @@
-# PREP-NexT-papers
+# PREP-NexT Papers
 
 Explore our lab's publications accompanied by open-source codes in this repo.
 
