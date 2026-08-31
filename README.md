@@ -4,6 +4,7 @@ Explore our lab's publications accompanied by open-source codes in this repo.
 
 | Title | Authors | Year | Publication | Code | Website | 
 | :----------------- | :------------- | :----- | :----- | :----- | :-----: |
+| [Capturing Unseen Spatial Heat Extremes Through Dependence-Aware Generative Modeling](https://arxiv.org/abs/2507.09211) | Xinyue Liu, Xiao Peng, Shuyue Yan, Yuntian Chen, Dongxiao Zhang, Zhixiao Niu, Hui-Min Wang, Xiaogang He | 2026 | Earth's Future (accepted) | [link](https://github.com/PREP-NexT/DeepX-GAN/) | / |
 | [Beyond the mean: Cold and warm tail temperature trends reveal asymmetric controls on snowpack changes in the Northern Hemisphere](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025WR041419) | Xiao Peng, Ziwei Liu, Alan D. Ziegler, Chao Zhang, Zhanwei Liu, and Xiaogang He | 2025 | Water Resources Research | [link](https://github.com/PREP-NexT/mean_vs_median_temp) | / |
 | [Spatially synchronized structures of global hydroclimatic extremes](https://www.nature.com/articles/s44221-025-00520-w) | Hui-Min Wang and Xiaogang He | 2025 | Nature Water | [link](https://github.com/PREP-NexT/DOMINO-SEE) | [link](https://prep-next.github.io/DOMINO-SEE) |
 | [Strategizing renewable energy transitions to preserve sediment transport integrity](https://www.nature.com/articles/s41893-025-01626-5) | Bo Xu, Zhanwei Liu, Shuyue Yan, Rafael J. P. Schmitt, and Xiaogang He | 2025 | Nature Sustainability | [link](https://github.com/PREP-NexT/Mekong-Energy-Sediment) | / |
